@@ -4,12 +4,32 @@
     "type": "split",
     "children": [
       {
+        "id": "3d69e434fe1b1765",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Airworthiness.pdf"
+          }
+        }
+      },
+      {
         "id": "b31a51d96d85291b",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Target Design Spec.pdf"
+          }
+        }
+      },
+      {
+        "id": "0174a71cadc24477",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Design_Specification/target_design_specification.md",
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
             "mode": "source"
           }
         }
@@ -68,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Design_Specification/target_design_specification.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b31a51d96d85291b",
+  "active": "0174a71cadc24477",
   "lastOpenFiles": [
-    "01.Projects/AVD/Conceptual_Design/Design_Specification/Untitled.md",
-    "01.Projects/AVD/Conceptual_Design/Design_Specification/Airworthiness.pdf",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
+    "01.Projects/AVD/Conceptual_Design/Design_Specification/target_design_specification.md",
     "01.Projects/AVD/Conceptual_Design/Design_Specification/Target Design Spec.pdf",
+    "01.Projects/AVD/Conceptual_Design/Design_Specification/Airworthiness.pdf",
+    "01.Projects/AVD/Conceptual_Design/Design_Specification/Untitled.md",
     "01.Projects/AVD/Brief/Untitled.md",
     "01.Projects/AVD/Brief/conceptual_design_brief.md",
     "01.Projects/AVD/Brief/preliminary_design_brief.md",
     "01.Projects/AVD/Brief/brief.md",
-    "01.Projects/AVD/Brief/briefing.md",
-    "preliminary_design_brief.md",
-    "01.Projects/AVD/Brief/preliminary_airframe_design.md"
+    "01.Projects/AVD/Brief/briefing.md"
   ]
 }
