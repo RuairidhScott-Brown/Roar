@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3d69e434fe1b1765",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Airworthiness.pdf"
-          }
-        }
-      },
-      {
-        "id": "b31a51d96d85291b",
+        "id": "f3721d7d5a90aeeb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md",
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/general_introduction.md",
             "mode": "source"
           }
         }
@@ -62,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.006872177124,
-    "collapsed": true
+    "width": 315.006872177124
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/general_introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b31a51d96d85291b",
+  "active": "f3721d7d5a90aeeb",
   "lastOpenFiles": [
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Airworthiness.pdf",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md",
+    "balanced_field_length.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/classification_of_civilian_aircraft.png",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Target Design Spec.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
-    "01.Projects/AVD/Conceptual_Design/Design_Specification/target_design_specification.md",
-    "01.Projects/AVD/Conceptual_Design/Design_Specification/Target Design Spec.pdf",
-    "01.Projects/AVD/Conceptual_Design/Design_Specification/Airworthiness.pdf"
+    "01.Projects/AVD/Conceptual_Design/Design_Specification/target_design_specification.md"
   ]
 }

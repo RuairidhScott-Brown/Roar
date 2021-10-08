@@ -19,10 +19,20 @@ part 25 = Transport category airplanes
 ![[system_requirements.PNG]]
 
 ## Takeoff Specification
+$V_s$ = stall speed
+$AEO$ = all engine operative
+$S.L$ = sea level
+$OEI$ = one engine inoperative
+[[balanced_field_length]]
+
 ![[takeoff.PNG]]
 
 ## Landing Secification
 ![[landing.PNG]]
+
+## Part-25 Climb Requirements
+![[part_25_climb_requirements.png]]
+
 
 
 
