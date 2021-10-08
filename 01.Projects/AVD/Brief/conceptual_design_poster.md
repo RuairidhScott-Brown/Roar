@@ -1,7 +1,6 @@
 # The Brief for the Conceptual Design Poster
 
 ## Concept
-
 - A1 poster
 
 ## Baseline Configuration
