@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "58083cee5d2166da",
+        "id": "b31a51d96d85291b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Brief/preliminary_design_brief.md",
+            "file": "01.Projects/AVD/Brief/detalied_component_design.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.006872177124
+    "width": 315.006872177124,
+    "collapsed": true
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Brief/preliminary_design_brief.md",
+                "file": "01.Projects/AVD/Brief/detalied_component_design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +87,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58083cee5d2166da",
+  "active": "b31a51d96d85291b",
   "lastOpenFiles": [
+    "01.Projects/AVD/Brief/Untitled.md",
     "01.Projects/AVD/Brief/preliminary_design_brief.md",
     "01.Projects/AVD/Brief/brief.md",
     "01.Projects/AVD/Brief/briefing.md",
     "preliminary_design_brief.md",
     "01.Projects/AVD/Brief/conceptual_design_brief.md",
-    "01.Projects/AVD/Brief/Untitled.md",
     "01.Projects/AVD/Brief/preliminary_airframe_design.md",
     "01.Projects/AVD/Brief/component_design.md",
     "Untitled 2.md",
