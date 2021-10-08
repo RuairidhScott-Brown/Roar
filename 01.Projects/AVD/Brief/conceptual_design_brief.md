@@ -1,2 +1,0 @@
-# The Conceptual Design Brief
-
