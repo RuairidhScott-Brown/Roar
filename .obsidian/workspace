@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Brief/detalied_component_design.md",
+            "file": "01.Projects/AVD/Brief/conceptual_design_poster.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Brief/detalied_component_design.md",
+                "file": "01.Projects/AVD/Brief/conceptual_design_poster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +90,11 @@
   "active": "b31a51d96d85291b",
   "lastOpenFiles": [
     "01.Projects/AVD/Brief/Untitled.md",
+    "01.Projects/AVD/Brief/conceptual_design_brief.md",
     "01.Projects/AVD/Brief/preliminary_design_brief.md",
     "01.Projects/AVD/Brief/brief.md",
     "01.Projects/AVD/Brief/briefing.md",
     "preliminary_design_brief.md",
-    "01.Projects/AVD/Brief/conceptual_design_brief.md",
     "01.Projects/AVD/Brief/preliminary_airframe_design.md",
     "01.Projects/AVD/Brief/component_design.md",
     "Untitled 2.md",

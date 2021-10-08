@@ -24,3 +24,6 @@
 - max speed of 0.75M at cruise alt
 - absolute celing of 45000 ft asml
 - cabin should be pressuriesed to an alt of no more than 8000 ft
+
+## Poster
+[[]]

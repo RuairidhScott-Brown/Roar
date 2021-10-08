@@ -5,7 +5,7 @@
 - all weight distributions should be known
 - bending moment, shear force and torque for each major structural member
 	- load cases at max load factor on wing, fuselage, tail
-		- symmetric flight
+	- symmetric flight
 		-  maouver $V_a$
 		-  dive $V_D$
 		-  one engine inoperative conditions
