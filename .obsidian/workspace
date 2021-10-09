@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
+            "file": "dihedral.md",
             "mode": "source"
           }
         }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.006872177124,
-    "collapsed": true
+    "width": 315.006872177124
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
+                "file": "dihedral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +98,7 @@
   },
   "active": "f3721d7d5a90aeeb",
   "lastOpenFiles": [
+    "dihedral.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
     "deep_stall.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf",
@@ -107,7 +107,6 @@
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/Airworthiness.pdf",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md",
-    "balanced_field_length.md"
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md"
   ]
 }

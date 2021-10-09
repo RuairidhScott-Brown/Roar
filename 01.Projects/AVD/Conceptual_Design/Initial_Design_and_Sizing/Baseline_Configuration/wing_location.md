@@ -2,7 +2,7 @@
 
 ## Things To Consider
 - ground clearence (engine underneath the wings, prollers, loading/unloading)
-- engine location 
+- engine location ([[dihedral]])
 
 ## Wing Vertical Location Low
 ![[low_wing.PNG]]
