@@ -25,6 +25,13 @@ $$ \frac{W_e}{W_0} $$
 To do this we will use regression methods.
 ![[regression_method_for_empty_weight.PNG]
 
-The empty weight fraction histori
+The empty weight fraction historically lies between ==0.3 and 0.7==. But, a trend does arise giving:
+
+$$ \frac{W_e}{W_0} = A W_0^c $$
+
+Where $A$ and $B$ are constants that are dependant on the aircraft.
+
+```ad-note
+color
 
 
