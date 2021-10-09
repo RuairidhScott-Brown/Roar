@@ -1,2 +1,0 @@
-# Dihedral
-![[dihedral.JPG]]
