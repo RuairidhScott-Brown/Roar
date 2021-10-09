@@ -1,14 +1,14 @@
 # Sizing to Constraints
 
-Consider the design specification [[target_design_specification]].
+## Take-off Weight
+$$W_0 = W_{crew} + W_{payload} + W_{fuel} + W_{empty}$$
+The empty weight considers the structure, engine, landing grear, fixed equipment, avionics, etc.
 
-Think about the weights and masses that dont change depending on the size of the aircraft.
--	crew
--	passengers
--	electronics
+We then express the fuel and empty weight as fractions of the gross take-off.
 
-There are other weights and masses that change with the size of the aircraft.
-- fuel
-- structure
+$$ W_0 = W_{crew} + W_{payload} + \left( \frac{W_f}{W_0}  \right)W_0 + \left( \frac{W_e}{W_0} \right) W_0 $$
 
+and then we re-arrange.
+
+$$W_0 = \frac{W_{crew} + W_}{}
 

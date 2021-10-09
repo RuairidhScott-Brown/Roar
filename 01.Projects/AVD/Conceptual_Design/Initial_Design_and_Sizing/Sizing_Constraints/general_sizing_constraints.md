@@ -11,3 +11,5 @@ There are other weights and masses that change with the size of the aircraft.
 - fuel
 - structure
 
+Think about the empty weight of the aircraft to the full weight and also the fuel weight.
+
