@@ -18,7 +18,7 @@ $$WEF = \frac{1}{1 - \sum{M_f}}$$
 
 We should know the fixed masses form the [[target_design_specification]] so the weights that need to be calculated are the weight fractions.
 
-Calculating: 
+### Empty Weight Estimate
 
 $$ \frac{W_e}{W_0} $$
 
@@ -31,7 +31,21 @@ $$ \frac{W_e}{W_0} = A W_0^c $$
 
 Where $A$ and $B$ are constants that are dependant on the aircraft.
 
-```ad-note
-color
+![[A_and_B_constants_for_empty_weight_fraction.PNG]]
 
+```ad-note
+color: 200,200,200
+That variable sweep wings are heavier than fixed wings therefore you have to multiply the empty weight faction by 1.04.
+
+For composite aircraft you can multiply the empty weight fraction by 0.95.
+```
+
+
+### Fuel Wright Estimate
+
+$$ \frac{W_f}{W_0} $$
+
+We can't use regression data because the mission that planes fly can be very varied. We need to fly the mission, [[target_design_specification]].
+
+For initial guesses the fuel can be said to be proportional to the aircraft weight.
 
