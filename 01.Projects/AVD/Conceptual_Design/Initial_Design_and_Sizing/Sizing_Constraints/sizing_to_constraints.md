@@ -23,5 +23,8 @@ Calculating:
 $$ \frac{W_e}{W_0} $$
 
 To do this we will use regression methods.
+![[regression_method_for_empty_weight.PNG]
+
+The empty weight fraction histori
 
 
