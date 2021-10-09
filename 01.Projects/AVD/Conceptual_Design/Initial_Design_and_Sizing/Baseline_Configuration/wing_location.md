@@ -4,7 +4,7 @@
 - ground clearence (engine underneath the wings, prollers, loading/unloading)
 - engine location ([[dihedral]])
 - span loading is good and is achieved through putting the engines on the wing. Otherwise, the engines would be on the fuselage and the force of the lift to counter the weight of the engines will have to transfer from the wing to the fuselage.
-- business jets might have engines on the fuselage as the engines can't fit on the wing
+- business jets might have engines on the fuselage as the engines can't fit on the wingu;g
 
 ## Wing Vertical Location Low
 ![[low_wing.PNG]]

@@ -7,20 +7,20 @@
         "id": "f3721d7d5a90aeeb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
-            "mode": "source"
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf"
           }
         }
       },
       {
-        "id": "a57f4b12526fb805",
+        "id": "ac7b9c37c38a7e8b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf"
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3721d7d5a90aeeb",
+  "active": "ac7b9c37c38a7e8b",
   "lastOpenFiles": [
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/high_wing.PNG",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/engine_propulsion.md",
-    "balanced_field_length.md",
-    "dihedral.md",
-    "deep_stall.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/general_introduction.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf"
+    "balanced_field_length.md"
   ]
 }
