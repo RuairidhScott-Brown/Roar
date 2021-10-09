@@ -16,5 +16,6 @@
 - coupling between yaw and pitch (normally done electronically)
 
 ## Good Spin Recovery
+![[good_spin_recovery.PNG]]
 - some level of rudder control when the aircraft is spinning
 
