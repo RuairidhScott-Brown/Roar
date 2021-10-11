@@ -54,5 +54,13 @@ For initial sizing we can use some basic rules of thumb. Where the mission segem
 
 For the range and endurance we will use the [[breguet_range_and_endurance]] equations.
 
+However, we will not know our specific fuel consumption and lift to drag ratio.
+
+#### Specific Fule Consumption
+It is the fule consumption per unit thrust. It is dependent on Mach number and the type of power plant used.
+
+
+
+
 
 
