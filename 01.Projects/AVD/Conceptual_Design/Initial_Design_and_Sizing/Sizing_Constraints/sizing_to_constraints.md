@@ -47,5 +47,12 @@ $$ \frac{W_f}{W_0} $$
 
 We can't use regression data because the mission that planes fly can be very varied. We need to fly the mission, [[target_design_specification]].
 
-For initial guesses the fuel can be said to be proportional to the aircraft weight.
+For initial guesses the fuel can be said to be proportional to the aircraft weight. So this means the fuel fraction is based on the mission flown.
+
+For initial sizing we can use some basic rules of thumb. Where the mission segement is related to $\frac{W_i}{W_{i-1}}$ i.e. the weight after the mission segment compared to the weight before the mission segment.
+![[fuel_usage_dependant_on_mission_segment.PNG]]
+
+For the range and endurance we will use the [[breguet_range_and_endurance]] equations.
+
+
 

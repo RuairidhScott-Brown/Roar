@@ -19,8 +19,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
-            "mode": "preview"
+            "file": "breguet_range_and_endurance.md",
+            "mode": "source"
           }
         }
       }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.006872177124,
-    "collapsed": true
+    "width": 315.006872177124
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+                "file": "breguet_range_and_endurance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "d9146689e102e144",
   "lastOpenFiles": [
+    "breguet_range_and_endurance.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/regression_method_for_empty_weight.PNG",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/high_wing.PNG",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Untitled.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/engine_propulsion.md"
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Untitled.md"
   ]
 }
