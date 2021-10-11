@@ -58,6 +58,23 @@ However, we will not know our specific fuel consumption and lift to drag ratio.
 
 #### Specific Fule Consumption
 It is the fule consumption per unit thrust. It is dependent on Mach number and the type of power plant used.
+![[power_plant_specific_fuel_consumption.PNG]]
+
+For a propeller aircraft we have to do things in terms of power:
+
+$$ C = C_{power} \frac{V}{\eta_p} $$
+
+Where the propeller efficiency $\eta_p$ is normally around 0.8.
+![[typical_power_values_for_propeller_aircraft.PNG]]
+
+#### Lift to Drag Ratio Estimation
+*Check out Roskam for an alternative method*
+
+The wetted aspect ratio is a good predictor of $\frac{L}{D}$, where:
+
+$$ A_{wetted} = \frac{b^2}{S_{wetted}} = \frac{A}{\big( \frac{S_{wet}}{S_{ref}}\big)}$$
+
+Where, $A$ is the aspect ratio, $b$ is the wing span, and the ratio $\frac{S_{wet}}{S_{ref}}$ is the ratio of the wetted area to the reference area.
 
 
 
