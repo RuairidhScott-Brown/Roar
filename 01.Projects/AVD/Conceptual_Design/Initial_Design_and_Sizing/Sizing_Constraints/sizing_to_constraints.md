@@ -74,10 +74,5 @@ The wetted aspect ratio is a good predictor of $\frac{L}{D}$, where:
 
 $$ A_{wetted} = \frac{b^2}{S_{wetted}} = \frac{A}{\big( \frac{S_{wet}}{S_{ref}}\big)}$$
 
-Where, $A$ is the aspect ratio, $b$ is the wing span, and the ratio $\frac{S_{wet}}{S_{ref}}$ is the ratio of the wetted area to the reference area.
-
-
-
-
-
+Where, $A$ is the [[aspect_ratio]], $b$ is the wing span, and the ratio $\frac{S_{wet}}{S_{ref}}$ is the ratio of the [[wetted_area]] to the [[reference_area]].
 

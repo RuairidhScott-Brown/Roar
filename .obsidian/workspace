@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.006872177124,
-    "collapsed": true
+    "width": 317.0036334991455
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -100,14 +99,14 @@
   "active": "2e672266c07de70d",
   "lastOpenFiles": [
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+    "02.Areas/Plane/Definitions/reference_area.md",
+    "02.Areas/Plane/Definitions/wetted_area.md",
+    "aspect_ratio.md",
     "02.Areas/Plane/breguet_range_and_endurance.md",
+    "reference_area.md",
+    "wetted_area.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/md_tutorial.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/important_settings.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/I_am_the_second_note2.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/I_am_a_new_note.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/How_to_Align_Text_in_Markdown.md"
+    "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md"
   ]
 }
