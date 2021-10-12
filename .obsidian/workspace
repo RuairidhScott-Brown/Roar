@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.0036334991455
+    "width": 317.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +97,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e672266c07de70d",
+  "active": "05be1428142feeb2",
   "lastOpenFiles": [
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
     "02.Areas/Plane/Definitions/reference_area.md",
     "02.Areas/Plane/Definitions/wetted_area.md",
@@ -105,7 +107,6 @@
     "02.Areas/Plane/breguet_range_and_endurance.md",
     "reference_area.md",
     "wetted_area.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
     "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md"
   ]
