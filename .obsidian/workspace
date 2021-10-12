@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "05be1428142feeb2",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf"
-          }
-        }
-      },
-      {
-        "id": "2e672266c07de70d",
+        "id": "a0076520710333de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+            "file": "02.Areas/git/adding_new_branch.md",
             "mode": "source"
           }
         }
@@ -62,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.0036334991455,
-    "collapsed": true
+    "width": 317.0036334991455
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
+                "file": "02.Areas/git/adding_new_branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05be1428142feeb2",
+  "active": "a0076520710333de",
   "lastOpenFiles": [
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
+    "02.Areas/git/adding_new_branch.md",
+    "02.Areas/git/adding_submodule_to_repo.md",
+    "02.Areas/git/cloning_a_repo_with_a_submodule.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "02.Areas/Plane/Definitions/reference_area.md",
     "02.Areas/Plane/Definitions/wetted_area.md",
     "aspect_ratio.md",
     "02.Areas/Plane/breguet_range_and_endurance.md",
-    "reference_area.md",
-    "wetted_area.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/general_sizing_constraints.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md"
+    "reference_area.md"
   ]
 }
