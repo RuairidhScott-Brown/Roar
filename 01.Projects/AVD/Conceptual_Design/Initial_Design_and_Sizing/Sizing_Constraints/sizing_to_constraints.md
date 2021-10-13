@@ -93,3 +93,20 @@ For a Jet -> Cruise: $0.866\frac{L}{D_{max}}$, Loiter: $\frac{L}{D_{max}}$
 For a prop -> Cruise: $\frac{L}{D_{max}}$, Loiter $0.866\frac{L}{D_{max}}$
 ```
 
+We then multiply all the flight segments together:
+$$ \frac{W_2}{W_1} \frac{W_1}{W_0}  ...=  \frac{W_n}{W_0}$$
+
+And  then apply the $\frac{W_n}{W_0}$ to the equation, where the 1.01 comes from the fuel that is trapped in the tank.
+
+$$ \frac{W_f}{W_0} = 1.01 \big(1 - \frac{W_n}{W_0} \big) $$
+
+### Putting It all Together
+We have two equations relating empty weight to the gross take-off weight.
+
+$$ \frac{W_e}{W_0} = A W_0^c $$
+
+
+$$W_0 = \frac{W_{crew} + W_{payload}}{1 - \left( \frac{W_f}{W_0} \right) - \left( \frac{W_e}{W_0}\right)} $$
+
+We need a solution which satisfies both equations we can do this by.
+
