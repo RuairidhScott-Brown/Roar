@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02.Areas/git/cloning_a_repo_with_a_submodule.md",
+            "file": "01.Projects/Caeli_Nova_Consultation/problems_when_setting_up_dairy.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.0036334991455
+    "width": 529.5036334991455
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/git/cloning_a_repo_with_a_submodule.md",
+                "file": "01.Projects/Caeli_Nova_Consultation/problems_when_setting_up_dairy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a0076520710333de",
   "lastOpenFiles": [
+    "01.Projects/Caeli_Nova_Consultation/problems_when_setting_up_dairy.md",
+    "01.Projects/Caeli_Nova_Consultation/transfer_function/transfer_function_pressure_sensors.md",
+    "01.Projects/What_is_a_Project.md",
     "02.Areas/git/cloning_a_repo_with_a_submodule.md",
     "02.Areas/git/adding_submodule_to_repo.md",
     "02.Areas/git/adding_new_branch.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "02.Areas/Plane/Definitions/reference_area.md",
-    "02.Areas/Plane/Definitions/wetted_area.md",
-    "aspect_ratio.md",
-    "02.Areas/Plane/breguet_range_and_endurance.md",
-    "reference_area.md"
+    "02.Areas/Plane/Definitions/wetted_area.md"
   ]
 }
