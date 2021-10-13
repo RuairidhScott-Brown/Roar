@@ -20,7 +20,7 @@
           "type": "markdown",
           "state": {
             "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -100,6 +100,7 @@
   "active": "30b68780c5e42a7b",
   "lastOpenFiles": [
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/Caeli_Nova_Consultation/problems_when_setting_up_dairy.md",
     "01.Projects/Caeli_Nova_Consultation/transfer_function/transfer_function_pressure_sensors.md",
@@ -107,7 +108,6 @@
     "02.Areas/git/cloning_a_repo_with_a_submodule.md",
     "02.Areas/git/adding_submodule_to_repo.md",
     "02.Areas/git/adding_new_branch.md",
-    "02.Areas/Plane/Definitions/reference_area.md",
-    "02.Areas/Plane/Definitions/wetted_area.md"
+    "02.Areas/Plane/Definitions/reference_area.md"
   ]
 }

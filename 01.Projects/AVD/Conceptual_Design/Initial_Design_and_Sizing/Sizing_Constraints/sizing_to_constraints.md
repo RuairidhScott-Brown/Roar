@@ -74,5 +74,22 @@ The wetted aspect ratio is a good predictor of $\frac{L}{D}$, where:
 
 $$ A_{wetted} = \frac{b^2}{S_{wetted}} = \frac{A}{\big( \frac{S_{wet}}{S_{ref}}\big)}$$
 
-Where, $A$ is the [[aspect_ratio]], $b$ is the wing span, and the ratio $\frac{S_{wet}}{S_{ref}}$ is the ratio of the [[wetted_area]] to the [[reference_area]].
+Where, $A$ is the [[aspect_ratio]], $b$ is the wing span, and the ratio $\frac{S_{wet}}{S_{ref}}$ is the ratio of the [[wetted_area]] to the [[reference_area]]. We then use this with the equation.
+
+$$ \frac{L}{D_{max}} = K_{LD} \sqrt{\frac{A}{\big( \frac{S_{wet}}{S_{ref}} \big)}} $$
+
+where the $K_{LD}$ term is a constant that depends on the type of aircraft.
+![[L_to_D_for_airfcraft.PNG]]
+
+But, where does $\frac{S_{wet}}{S_{ref}}$ comes from.
+![[s_wet_over_s_ref.PNG]]
+
+```ad-note
+color: 200,200,200
+
+The most efficient cruise and loiter velocities for jet and propeller aircraft occur at different conditions.
+
+For a Jet -> Cruise: $0.866\frac{L}{D_{max}}$, Loiter: $\frac{L}{D_{max}}$
+For a prop -> Cruise: $\frac{L}{D_{max}}$, Loiter $0.866\frac{L}{D_{max}}$
+```
 
