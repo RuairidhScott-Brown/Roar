@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02.Areas/git/adding_new_branch.md",
+            "file": "02.Areas/git/cloning_a_repo_with_a_submodule.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/git/adding_new_branch.md",
+                "file": "02.Areas/git/cloning_a_repo_with_a_submodule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "a0076520710333de",
   "lastOpenFiles": [
-    "02.Areas/git/adding_new_branch.md",
-    "02.Areas/git/adding_submodule_to_repo.md",
     "02.Areas/git/cloning_a_repo_with_a_submodule.md",
+    "02.Areas/git/adding_submodule_to_repo.md",
+    "02.Areas/git/adding_new_branch.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "02.Areas/Plane/Definitions/reference_area.md",
