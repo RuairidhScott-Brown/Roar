@@ -9,8 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/constraints_diagram.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9fd0ca91e93db347",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Sizing to Constraints.pdf"
           }
         }
       }
@@ -52,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.0036334991455
+    "width": 498.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/constraints_diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +99,8 @@
   },
   "active": "30b68780c5e42a7b",
   "lastOpenFiles": [
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/constraints_diagram.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Sizing to Constraints.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
     "02.Areas/Plane/breguet_range_and_endurance.md",
@@ -95,8 +108,6 @@
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/Caeli_Nova_Consultation/problems_when_setting_up_dairy.md",
     "01.Projects/Caeli_Nova_Consultation/transfer_function/transfer_function_pressure_sensors.md",
-    "01.Projects/What_is_a_Project.md",
-    "02.Areas/git/cloning_a_repo_with_a_submodule.md",
-    "02.Areas/git/adding_submodule_to_repo.md"
+    "01.Projects/What_is_a_Project.md"
   ]
 }
