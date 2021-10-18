@@ -15,12 +15,32 @@
         }
       },
       {
-        "id": "9fd0ca91e93db347",
+        "id": "d260fca9ff78d894",
         "type": "leaf",
         "state": {
           "type": "pdf",
           "state": {
             "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Sizing to Constraints.pdf"
+          }
+        }
+      },
+      {
+        "id": "04237919be3f1df0",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf"
+          }
+        }
+      },
+      {
+        "id": "728c3f27205e6d42",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf"
           }
         }
       }
@@ -62,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.0036334991455,
-    "collapsed": true
+    "width": 498.0036334991455
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -79,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/constraints_diagram.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +116,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30b68780c5e42a7b",
+  "active": "728c3f27205e6d42",
   "lastOpenFiles": [
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/constraints_diagram.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Sizing to Constraints.pdf",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/constraints_diagram.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Untitled.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/sizing_to_constraints.md",
     "02.Areas/Plane/breguet_range_and_endurance.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf",
     "01.Projects/Caeli_Nova_Consultation/problems_when_setting_up_dairy.md",
-    "01.Projects/Caeli_Nova_Consultation/transfer_function/transfer_function_pressure_sensors.md",
-    "01.Projects/What_is_a_Project.md"
+    "01.Projects/Caeli_Nova_Consultation/transfer_function/transfer_function_pressure_sensors.md"
   ]
 }
