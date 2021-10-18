@@ -50,8 +50,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Brief/conceptual_design_brief.md",
-            "mode": "preview"
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
+            "mode": "source"
           }
         }
       },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Brief/conceptual_design_brief.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,10 +140,10 @@
   },
   "active": "6d53c2e08acdaefc",
   "lastOpenFiles": [
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
     "01.Projects/AVD/Brief/conceptual_design_brief.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/airworthiness_requirements.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/under_carriage_design.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/under_carriage.PNG",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/tail_location.md",
