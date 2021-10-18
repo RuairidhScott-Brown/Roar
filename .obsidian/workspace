@@ -60,9 +60,10 @@
         "id": "4494c51664e917b7",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf"
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/under_carriage_design.md",
+            "mode": "preview"
           }
         }
       }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/under_carriage_design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +141,15 @@
   },
   "active": "4494c51664e917b7",
   "lastOpenFiles": [
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/under_carriage_design.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/tail_location.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/Baseline Configuration.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/under_carriage.PNG",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/tail_location.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/engine_propulsion.md",
     "01.Projects/AVD/Brief/conceptual_design_brief.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/Sizing to Constraints.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md",
-    "01.Projects/AVD/Brief/brief.md",
-    "01.Projects/AVD/Brief/briefing.md"
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Design_Specification/target_design_specification.md"
   ]
 }
