@@ -23,6 +23,11 @@ highly manouverable aircraft
 ## Wing Structure
 Normally, the structure of the wing carrys on through the fuselage.
 
+## Low Mounted Wings
+no ground clearance
+
+As with jetliners, swept wings are often used to increase cruise speed, but straight wings are also commonplace;
+
 
 
 
