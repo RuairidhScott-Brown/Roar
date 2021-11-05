@@ -1,7 +1,6 @@
 # This is the Conceptual Design Brief
 
 ## Concept
-
 - conventional business jet
 - 4 passengers + luggage
 - 2 pilots
