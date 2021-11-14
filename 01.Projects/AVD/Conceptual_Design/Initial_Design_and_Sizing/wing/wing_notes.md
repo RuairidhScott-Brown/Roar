@@ -87,8 +87,8 @@ needs a certain degree of sweep so that the normal speed does not exceed 0.72. A
 Hoerner wing tip: The lower surface is "undercut" and canted approximately 30 deg to the horizontal (i.e., concave)
 
 
+## Modeling
 
-
-
-
-
+### Vortex lattice method
+checkout
+- vorview https://www.avidaerospace.com/avid-vorview
