@@ -23,7 +23,7 @@ We should know the fixed masses form the [[target_design_specification]] so the 
 $$ \frac{W_e}{W_0} $$
 
 To do this we will use regression methods.
-![[regression_method_for_empty_weight.PNG]
+![[regression_method_for_empty_weight.PNG]]
 
 The empty weight fraction historically lies between ==0.3 and 0.7==. But, a trend does arise giving:
 

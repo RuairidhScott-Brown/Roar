@@ -4,13 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "202f540aa768e0dc",
+        "id": "b41d6b3114934afc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02.Areas/git/removing_git_history.md",
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ec7b324547a21ec0",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf"
           }
         }
       }
@@ -52,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5036334991455
+    "width": 339
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/git/removing_git_history.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "202f540aa768e0dc",
+  "active": "b41d6b3114934afc",
   "lastOpenFiles": [
-    "02.Areas/git/removing_git_history.md",
-    "02.Areas/git/git_clone_without_making_top_directory.md",
-    "02.Areas/Raspberry_Pi/adding_folders_to_your_path.md",
-    "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md",
-    "02.Areas/git/adding_new_branch.md",
-    "01.Projects/AVD/Brief/conceptual_design_brief.md",
-    "01.Projects/AVD/Brief/briefing.md",
-    "01.Projects/AVD/Brief/brief.md",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3.pdf",
-    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Sizing_Constraints/InitialSizing3NoAnn.pdf"
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
+    "01.Projects/AVD/Conceptual_Design/Raymer - Aircraft Design A Conceptual Approach.pdf",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/engine/engine_notes.md",
+    "02.Areas/Plane/breguet_range_and_endurance.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/wing_location.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/engine_propulsion.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/general_introduction.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/poster_notes.md",
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/Baseline_Configuration/summary.md"
   ]
 }
