@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "202f540aa768e0dc",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/20160008102.pdf"
-          }
-        }
-      },
-      {
         "id": "2b3fe16011909a3a",
         "type": "leaf",
         "state": {
@@ -21,6 +11,16 @@
           "state": {
             "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8bffd179bdbf1927",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b3fe16011909a3a",
+  "active": "8bffd179bdbf1927",
   "lastOpenFiles": [
+    "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/20160008102.pdf",
     "02.Areas/git/unrelated_histories_error.md",
@@ -107,7 +108,6 @@
     "02.Areas/Raspberry_Pi/adding_folders_to_your_path.md",
     "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md",
     "02.Areas/git/adding_new_branch.md",
-    "01.Projects/AVD/Brief/conceptual_design_brief.md",
-    "01.Projects/AVD/Brief/briefing.md"
+    "01.Projects/AVD/Brief/conceptual_design_brief.md"
   ]
 }
