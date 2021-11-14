@@ -20,3 +20,7 @@ git branch -D main
 git branch -m main
 ```
 
+```shell
+git push -f origin main
+```
+
