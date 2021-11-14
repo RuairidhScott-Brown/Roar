@@ -92,3 +92,4 @@ Hoerner wing tip: The lower surface is "undercut" and canted approximately 30 de
 ### Vortex lattice method
 checkout
 - vorview https://www.avidaerospace.com/avid-vorview
+- TSFOIL https://github.com/swayli94/pyTSFoil
