@@ -18,9 +18,10 @@
         "id": "8bffd179bdbf1927",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf"
+            "file": "02.Areas/Plane/breguet_range_and_endurance.md",
+            "mode": "source"
           }
         }
       }
@@ -62,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5036334991455,
-    "collapsed": true
+    "width": 322.5036334991455
   },
   "right": {
     "id": "e56cd1eff0bb9118",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
+                "file": "02.Areas/Plane/breguet_range_and_endurance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "8bffd179bdbf1927",
   "lastOpenFiles": [
+    "02.Areas/Plane/breguet_range_and_endurance.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/20160008102.pdf",
@@ -107,7 +108,6 @@
     "02.Areas/git/git_clone_without_making_top_directory.md",
     "02.Areas/Raspberry_Pi/adding_folders_to_your_path.md",
     "04.Archives/01.Obsidian_Tutorial/Maerkdown/this_is_a_code_note.md",
-    "02.Areas/git/adding_new_branch.md",
-    "01.Projects/AVD/Brief/conceptual_design_brief.md"
+    "02.Areas/git/adding_new_branch.md"
   ]
 }
