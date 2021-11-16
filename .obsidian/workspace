@@ -24,6 +24,16 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "08fc2e193a6c0527",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Areas/Plane/breguet_range_and_endurance.md",
+                "file": "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bffd179bdbf1927",
+  "active": "08fc2e193a6c0527",
   "lastOpenFiles": [
-    "02.Areas/Plane/breguet_range_and_endurance.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/2nd-place-graduate-team-light-business-jet-family.pdf",
+    "02.Areas/Plane/breguet_range_and_endurance.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/wing_notes.md",
     "01.Projects/AVD/Conceptual_Design/Initial_Design_and_Sizing/wing/reports/20160008102.pdf",
     "02.Areas/git/unrelated_histories_error.md",
